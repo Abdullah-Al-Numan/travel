@@ -12,8 +12,8 @@ A modern travel booking website built with Next.js, featuring flight search, boo
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd khyaram-travel
+   git clone https://github.com/Abdullah-Al-Numan/travel.git
+   cd travel
    ```
 
 2. **Install dependencies**
